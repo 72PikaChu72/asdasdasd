@@ -1,0 +1,16 @@
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\bin\Debug\фыввфывфывфыв.exe.config
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\bin\Debug\фыввфывфывфыв.exe
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\bin\Debug\фыввфывфывфыв.pdb
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.csproj.AssemblyReference.cache
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.csproj.SuggestedBindingRedirects.cache
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\MainWindow.g.cs
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\App.g.cs
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв_MarkupCompile.cache
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв_MarkupCompile.lref
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\MainWindow.baml
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.g.resources
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.Properties.Resources.resources
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.csproj.GenerateResource.cache
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.csproj.CoreCompileInputs.cache
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.exe
+C:\Users\PikaChu\source\repos\фыввфывфывфыв\obj\Debug\фыввфывфывфыв.pdb
